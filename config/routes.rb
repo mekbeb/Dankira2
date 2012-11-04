@@ -1,4 +1,10 @@
 Dankira2::Application.routes.draw do
+  get "pages/home"
+
+  get "pages/create"
+
+  get "pages/register"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
