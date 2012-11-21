@@ -43,7 +43,7 @@ test:
   encoding: unicode
   database: dankira2_test
   pool: 5
-  username: myUbuntu
+  username: myubuntu
   password: password
   host: localhost
 
